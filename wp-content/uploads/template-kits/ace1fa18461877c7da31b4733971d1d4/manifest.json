@@ -1,0 +1,234 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Science",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-d1b05cf2b0a69f8266e12af7a97f4c1b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-393c19100a467e2b57ba15c8b548af50.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3-7d453de31081b04c804441b0d77909c1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Projects 1",
+            "screenshot": "screenshots\/projects-1.jpg",
+            "source": "templates\/projects-1-28c1cc25122af084389a1547b4e814f1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Projects 2",
+            "screenshot": "screenshots\/projects-2.jpg",
+            "source": "templates\/projects-2-76b8500bdd4ff6848e36bdba72da66eb.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Projects 3",
+            "screenshot": "screenshots\/projects-3.jpg",
+            "source": "templates\/projects-3-dd8d7d45e75770ae7be81cf567f67146.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Lab Team 1",
+            "screenshot": "screenshots\/lab-team-1.jpg",
+            "source": "templates\/lab-team-1-7266f39fd8c56d094761eca72a3d228d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Lab Team 2",
+            "screenshot": "screenshots\/lab-team-2.jpg",
+            "source": "templates\/lab-team-2-264190db9de2dc30b0125e4e126768f1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 1",
+            "screenshot": "screenshots\/about-1.jpg",
+            "source": "templates\/about-1-38b77a49adcafe058049a31e76ac7db4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us 2",
+            "screenshot": "screenshots\/about-us-2.jpg",
+            "source": "templates\/about-us-2-f963a8375eeba1cce01775a05a5be66c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CV",
+            "screenshot": "screenshots\/cv.jpg",
+            "source": "templates\/cv-d5eae2de6e40cc3d1d9e4346e69f7796.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Publications 1",
+            "screenshot": "screenshots\/publications-1.jpg",
+            "source": "templates\/publications-1-4c2cb1acb868711b945616b77531a903.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Publications 2",
+            "screenshot": "screenshots\/publications-2.jpg",
+            "source": "templates\/publications-2-98bf55be5aa9ddba80a381aa95c76c2b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us 1",
+            "screenshot": "screenshots\/contact-us-1.jpg",
+            "source": "templates\/contact-us-1-894f64e1fb837c66f6de76ac26ef6b92.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us 2",
+            "screenshot": "screenshots\/contact-us-2.jpg",
+            "source": "templates\/contact-us-2-64781fdac882da3e5d92c31a77eed16b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Donate",
+            "screenshot": "screenshots\/donate.jpg",
+            "source": "templates\/donate-90db2c47e788014af219c0367b5bc22a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-6c5a70bbe7d2f655a404f91938741da1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": []
+}

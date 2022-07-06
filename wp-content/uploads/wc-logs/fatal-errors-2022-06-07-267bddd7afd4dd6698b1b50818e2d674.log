@@ -1,0 +1,8 @@
+2022-06-07T20:44:47+00:00 CRITICAL Uncaught TypeError: Argument 2 passed to Elementor\TemplateLibrary\Source_Local::on_save_post() must be an instance of WP_Post, null given, called in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/class-wp-hook.php on line 309 and defined in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/elementor/includes/template-library/sources/local.php:1053
+Stack trace:
+#0 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/class-wp-hook.php(309): Elementor\TemplateLibrary\Source_Local->on_save_post(3961, NULL)
+#1 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(3961, Array)
+#2 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/post.php(4673): do_action('save_post', 3961, NULL, true)
+#4 /home/customer/www/thelibrary.santhi in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/elementor/includes/template-library/sources/local.php on line 1053
+

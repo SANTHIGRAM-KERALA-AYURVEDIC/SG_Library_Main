@@ -1,0 +1,222 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Nutritionist",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3-2f1986514d5ad5c9b93958f14cddc233.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 4",
+            "screenshot": "screenshots\/home-4.jpg",
+            "source": "templates\/home-4-ee083f693b002504be768340c12af935.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services 1",
+            "screenshot": "screenshots\/services-1.jpg",
+            "source": "templates\/services-1-bd66844f48323aa50c31e52a8f3cad85.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services 2",
+            "screenshot": "screenshots\/services-2.jpg",
+            "source": "templates\/services-2-9afc240826ba7ab0d5199e423372cc62.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 1",
+            "screenshot": "screenshots\/about-1.jpg",
+            "source": "templates\/about-1-a37a39f10757328670ca735c3214bddb.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 2",
+            "screenshot": "screenshots\/about-2.jpg",
+            "source": "templates\/about-2-b765ec7feda83435afb55d08c46925ab.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Service",
+            "screenshot": "screenshots\/single-service.jpg",
+            "source": "templates\/single-service-1392ab2c24f3184a3d6e9d91e583fc76.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Recipes",
+            "screenshot": "screenshots\/recipes.jpg",
+            "source": "templates\/recipes-cf0cb9b07cdecc42ca870bdd32918cdc.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Recipe",
+            "screenshot": "screenshots\/recipe.jpg",
+            "source": "templates\/recipe-351b0a02d7123a887c203a328be94b9d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq-2ed3474497fb93cef135c60151133b74.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials-a36d5127937f71ffc952563e35109309.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contacts 1",
+            "screenshot": "screenshots\/contacts-1.jpg",
+            "source": "templates\/contacts-1-83a214bd2b89b28817f1a221bb89da1b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contacts 2",
+            "screenshot": "screenshots\/contacts-2.jpg",
+            "source": "templates\/contacts-2-a261bb19f02e1aae5738cb5268a42cfe.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-eb3a59fa635603dcb7085832b0e52a58.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": []
+}

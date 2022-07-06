@@ -1,0 +1,16 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://thelibrary.santhigramschool.com
+Data file = /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix//inc/import/academix-demo-content.xml
+Widget file = /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix//inc/import/academix-widgets.wie
+Customizer file = /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix//inc/import/academix-export.dat
+Redux files:
+academix_options -> /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix//inc/import/theme-options.json 
+
+
+------
+New AJAX call!
+

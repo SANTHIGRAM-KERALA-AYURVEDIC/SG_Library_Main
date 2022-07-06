@@ -1,0 +1,50 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://thelibrary.santhigramschool.com
+Data file = /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix//inc/import/academix-demo-content.xml
+Widget file = /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix//inc/import/academix-widgets.wie
+Customizer file = /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix//inc/import/academix-export.dat
+Redux files:
+academix_options -> /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix//inc/import/theme-options.json 
+
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Footer Widgets1 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer Widgets2 : 
+
+Academix Latest Events - Latest Events - Imported
+
+Footer Widgets3 : 
+
+Navigation Menu - Quick Links - Imported
+Academix Social Links - Social Links - Imported
+
+Footer Widgets4 : 
+
+Block - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: academix_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!

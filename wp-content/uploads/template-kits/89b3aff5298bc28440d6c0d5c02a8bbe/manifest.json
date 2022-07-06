@@ -1,0 +1,144 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Zoo",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-d1b05cf2b0a69f8266e12af7a97f4c1b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-c5f0582ce17e9609d5eacafb04df056a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3 (Pro)",
+            "screenshot": "screenshots\/home-3-pro-.jpg",
+            "source": "templates\/home-3-pro-7525443a1ba75b8fcda106499f0533b2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us-f151cf4347ba0cfe612b7be07473adea.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Donate",
+            "screenshot": "screenshots\/donate.jpg",
+            "source": "templates\/donate-f45ddfdb64f6c73faaa9404839de0382.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Animals",
+            "screenshot": "screenshots\/animals.jpg",
+            "source": "templates\/animals-414f2bf85626de501b3dec981bb7340c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tickets & Passes (Pro)",
+            "screenshot": "screenshots\/tickets-passes-pro-.jpg",
+            "source": "templates\/tickets-passes-pro-3488096d1074ce22b0772585d6c7a48f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Careers",
+            "screenshot": "screenshots\/careers.jpg",
+            "source": "templates\/careers-4d78ebcab83d519c3a94586bec47fa30.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery-b4ecd53213835c60d481e5ac2449b505.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us (Pro)",
+            "screenshot": "screenshots\/contact-us-pro-.jpg",
+            "source": "templates\/contact-us-pro-619d59dee4543ccef66f02494cd4b24d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [],
+    "images": []
+}

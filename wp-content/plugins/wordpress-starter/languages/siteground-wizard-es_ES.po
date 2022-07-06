@@ -1,0 +1,835 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Starter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 13:32+0000\n"
+"PO-Revision-Date: 2022-01-11 12:03+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.5.5; wp-5.8.3"
+
+#: templates/partials/themes/box.php:36
+msgid "(Free)"
+msgstr "(Gratuito)"
+
+#. accessibility text
+#: templates/partials/news-and-events.php:28
+#: templates/partials/news-and-events.php:38
+#: templates/partials/news-and-events.php:49
+msgid "(opens in a new window)"
+msgstr "(abre una nueva ventana)"
+
+#: core/Control/Plugins.php:231
+msgid ""
+"<b class=\"sg-with-color sg-with-color--color-warning\">Untested</b> with "
+"your version of WordPress"
+msgstr ""
+"<b class=\"sg-with-color sg-with-color--color-warning\">Untested</b> con tu "
+"versión actual de WordPress"
+
+#: core/Control/Plugins.php:235
+msgid "<b>Compatible</b> with your version of WordPress"
+msgstr "<b>Compatible</b> con tu versión WordPress"
+
+#: core/Control/Plugins.php:233
+msgid "<b>Incompatible</b> with your version of WordPress"
+msgstr "<b>Incompatible</b> con tu versión WordPress"
+
+#: templates/partials/themes/popup.php:13
+msgid "Action Required"
+msgstr "Acción Requerida"
+
+#: core/Pages/Themes.php:135 core/Pages/Plugins.php:168
+#: core/Control/Themes.php:238 core/Control/Plugins.php:205
+msgid "Activate"
+msgstr "Activar"
+
+#: core/Pages/Themes.php:134 core/Pages/Plugins.php:167
+msgid "Activating..."
+msgstr "Activando..."
+
+#: core/Pages/Plugins.php:172 core/Control/Plugins.php:209
+msgid "Active"
+msgstr "Activo"
+
+#: core/Pages/Custom_Page.php:110 core/Pages/Custom_Page.php:119
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+#: templates/plugins.php:15
+msgid "Add Plugins"
+msgstr "Añadir Plugins"
+
+#: templates/themes.php:13
+msgid "Add Themes"
+msgstr "Añadir Temas"
+
+#: templates/siteground-wizard.php:97
+msgid "All"
+msgstr "Todas"
+
+#: templates/partials/themes/themes.php:4
+msgid "Apply Filters"
+msgstr "Aplicar Filtros"
+
+#: templates/partials/themes/confirmation-dialog.php:12
+msgid "Are you sure you want to cancel the transfer?"
+msgstr "¿Estás seguro de que quieres cancelar la transferencia?"
+
+#: templates/siteground-wizard.php:106
+msgid "Art & Design"
+msgstr "Arte y diseño"
+
+#: templates/siteground-wizard.php:105
+msgid "Blog"
+msgstr "Blog"
+
+#: helpers/manual-translations.php:6
+msgid "Browse WordPress directory&nbsp;"
+msgstr "Explorar directorio de WordPress&nbsp;"
+
+#: helpers/manual-translations.php:3
+msgid "Browse wordpress directory&nbsp;"
+msgstr "Explorar directorio de WordPress&nbsp;"
+
+#: manual-translations.php:10
+msgid "Build Galleries"
+msgstr "Construir galerías"
+
+#: templates/siteground-wizard.php:98
+msgid "Business"
+msgstr "Negocios"
+
+#: templates/siteground-wizard.php:82 templates/siteground-wizard.php:90
+msgid "Calendar"
+msgstr "Calendario"
+
+#: templates/partials/themes/popup.php:27
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: templates/partials/themes/confirmation-dialog.php:21
+msgid "Cancel Transfer"
+msgstr "Cancelar transferencia"
+
+#: templates/siteground-wizard.php:62
+msgid "Categories"
+msgstr "Categorías"
+
+#: templates/partials/manage-design.php:67
+msgid "Change Design"
+msgstr "Cambiar diseño"
+
+#: templates/partials/manage-design.php:75
+msgid "Change Theme"
+msgstr "Cambiar tema"
+
+#: manual-translations.php:6
+msgid "Check Orders"
+msgstr "Verificar órdenes"
+
+#: templates/partials/manage-design.php:20
+msgid "Check out how your website looks!"
+msgstr "¡Comprueba cómo se ve tu página web!"
+
+#: manual-translations.php:12
+msgid "Check your SEO"
+msgstr "Verificar tu SEO"
+
+#: templates/partials/plugins/upload.php:24
+#: templates/partials/themes/upload.php:25
+msgid "Choose file"
+msgstr "Seleccionar archivo"
+
+#: templates/partials/themes/themes.php:5
+msgid "Clear"
+msgstr "Vaciar"
+
+#: templates/partials/themes/themes.php:5
+msgid "Clear current filters"
+msgstr "Vaciar filtros actuales"
+
+#: templates/siteground-wizard.php:57 templates/partials/popup.php:82
+#: templates/partials/themes/popup.php:85
+msgid "Close"
+msgstr "Cerrar"
+
+#: manual-translations.php:13
+msgid "Configure Google Analytics"
+msgstr "Configurar Google Analytics"
+
+#: manual-translations.php:11
+msgid "Configure JetPack"
+msgstr "Configurar JetPack"
+
+#: templates/siteground-wizard.php:58
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: templates/siteground-wizard.php:70 templates/partials/themes/popup.php:73
+msgid "Congrats! Your site is ready!"
+msgstr "¡Enhorabuena! ¡Tu web está lista!"
+
+#: templates/siteground-wizard.php:81
+msgid "Contact Form"
+msgstr "Formulario de contacto"
+
+#: templates/siteground-wizard.php:52
+#: templates/partials/themes/confirmation-dialog.php:18
+msgid "Continue"
+msgstr "Continuar"
+
+#: manual-translations.php:8
+msgid "Create & Edit Events"
+msgstr "Crear y editar eventos"
+
+#. See http://keithdevon.com/using-variables-wordpress-translation-functions
+#: manual-translations.php:5
+msgid "Create & Edit Forms"
+msgstr "Crear y editar formularios"
+
+#: manual-translations.php:7
+msgid "Create & Edit Products"
+msgstr "Crear y editar productos"
+
+#: manual-translations.php:9
+msgid "Create Maps"
+msgstr "Crear mapas"
+
+#: templates/siteground-wizard.php:61
+msgid "Currently selected"
+msgstr "Seleccionado actualmente"
+
+#: templates/custom-dashboard.php:15
+msgid "Dashboard"
+msgstr "Panel de control"
+
+#: templates/siteground-wizard.php:50
+msgid "Days"
+msgstr "días"
+
+#: templates/siteground-wizard.php:51
+msgid "Default"
+msgstr "Por defecto"
+
+#: templates/partials/themes/popup.php:18
+msgid ""
+"Do you want to import the sample data when installing the theme?\n"
+"                    <br/><br/>\n"
+"                    <strong>Note, that this will delete your existing "
+"content!</strong>"
+msgstr ""
+"¿Deseas importar los datos de la demo al instalar el tema?\n"
+"                    <br/><br/>\n"
+"                    <strong>¡Importante, esto eliminará el contenido "
+"existente!</strong>"
+
+#: templates/partials/installation-status.php:64
+msgid "Don't show this again"
+msgstr "No mostrar esto otra vez"
+
+#: templates/partials/manage-design.php:45
+msgid "Edit and create new Pages"
+msgstr "Editar y crear páginas nuevas"
+
+#: templates/siteground-wizard.php:48
+msgid "Exit"
+msgstr "Salir"
+
+#: templates/siteground-wizard.php:104
+msgid "Fashion & Beauty"
+msgstr "Belleza y moda"
+
+#: templates/siteground-wizard.php:49
+msgid "Free"
+msgstr "Gratis"
+
+#: templates/siteground-wizard.php:84 templates/siteground-wizard.php:88
+msgid "Gallery"
+msgstr "Galería"
+
+#: templates/partials/themes/notifications.php:42
+msgid "Get Ready"
+msgstr "Prepárate"
+
+#: templates/partials/useful-links.php:123
+msgid "Get the Latest Ebook"
+msgstr "Obtén el Ebook más reciente"
+
+#: templates/siteground-wizard.php:74
+msgid "Go to Dashboard"
+msgstr "Ir a panel de control"
+
+#: templates/siteground-wizard.php:66
+msgid "Great design choice!"
+msgstr "¡Gran elección de diseño!"
+
+#: templates/siteground-wizard.php:87 templates/siteground-wizard.php:92
+msgid "Grow Subscribers List"
+msgstr "Aumentar lista de suscriptores"
+
+#: templates/siteground-wizard.php:107
+msgid "Health & Fitness"
+msgstr "Salud y fitness"
+
+#: core/Pages/Dashboard.php:220 core/Pages/Dashboard.php:229
+msgid "Home"
+msgstr "Inicio"
+
+#. URI of the plugin
+msgid "https://siteground.com"
+msgstr "https://www.siteground.es"
+
+#. Author URI of the plugin
+msgid "https://www.siteground.com"
+msgstr "https://www.siteground.es"
+
+#: templates/partials/useful-links.php:84
+msgid "https://www.siteground.com/kb/"
+msgstr "https://www.siteground.es/kb/"
+
+#: templates/partials/useful-links.php:62
+msgid "https://www.siteground.com/tutorials/wordpress/"
+msgstr "https://www.siteground.es/tutoriales/wordpress/"
+
+#: templates/partials/useful-links.php:119
+msgid "https://www.siteground.com/woocommerce-ebook?utm_source=wpdashboard"
+msgstr "https://www.siteground.es/ebook-woocommerce?utm_source=wpdashboard"
+
+#: templates/partials/useful-links.php:121
+msgid ""
+"https://www.siteground.com/wordpress-speed-optimization-ebook?"
+"utm_source=wpdashboard&utm_campaign=ebookwpspeed"
+msgstr ""
+"https://www.siteground.es/ebook-wordpress?"
+"utm_source=wpdashboard&utm_campaign=ebookwpspeed"
+
+#: templates/partials/useful-links.php:82
+msgid ""
+"If you have a how to question about WordPress it’s quite likely that we "
+"already have the answer for you in our Knowledge Base. It contains more than "
+"1000 helpful articles."
+msgstr ""
+"Si tienes alguna duda del funcionamiento de WordPress es bastante probable "
+"que la respuesta esté en nuestra Base de Conocimiento. Contiene más de 1000 "
+"artículos de ayuda."
+
+#: templates/partials/plugins/upload.php:14
+msgid ""
+"If you have a plugin in a .zip format, you may install it by uploading it "
+"here."
+msgstr ""
+"Si tienes un plugin en formato .zip, puedes instalarlo subiéndolo aquí."
+
+#: templates/partials/themes/upload.php:14
+msgid ""
+"If you have a theme in a .zip format, you may install it by uploading it "
+"here."
+msgstr "Si tienes un tema en formato .zip, puedes instalarlo subiéndolo aquí."
+
+#: templates/custom-dashboard.php:40
+#, php-format
+msgid ""
+"If you wish you can always <a href=\"%1$s\" class=\"switch-dashboard\" data-"
+"admin-url=\"%2$s\">switch to default</a> dashboard."
+msgstr ""
+"Si lo deseas, siempre puedes <a href=\"%1$s\" class=\"switch-dashboard\" "
+"data-admin-url=\"%2$s\">cambiar al panel por defecto</a>."
+
+#: templates/partials/notifications.php:2
+msgid "Important Notifications"
+msgstr "Notificaciones importantes"
+
+#: core/Pages/Themes.php:138
+msgid "Importing Sample Data"
+msgstr "Importando contenido de muestra"
+
+#: core/Pages/Themes.php:137 core/Pages/Plugins.php:170
+#: core/Control/Themes.php:222 core/Control/Themes.php:257
+#: core/Control/Themes.php:278 core/Control/Plugins.php:195
+#: templates/partials/themes/dialog.php:15
+msgid "Install"
+msgstr "Instalar"
+
+#: templates/partials/plugins/upload.php:28
+#: templates/partials/themes/upload.php:29
+msgid "Install Now"
+msgstr "Instalar ahora"
+
+#: core/Control/Themes.php:230
+msgid "Installed"
+msgstr "Instalado"
+
+#: templates/partials/themes/popup.php:54
+msgid "Installing Theme"
+msgstr "Instalando tema"
+
+#: templates/siteground-wizard.php:68 templates/partials/themes/popup.php:47
+msgid "Installing, please don't close or refresh this page."
+msgstr "Instalando, por favor no cierres ni refresques esta página."
+
+#: core/Pages/Themes.php:136 core/Pages/Themes.php:147
+#: core/Pages/Plugins.php:169 core/Pages/Plugins.php:180
+msgid "Installing..."
+msgstr "Instalando..."
+
+#: templates/partials/news-and-events.php:15
+msgid "Latest News"
+msgstr "últimas noticias"
+
+#: templates/partials/plugins/box.php:47
+msgid "Learn More"
+msgstr "Saber Más"
+
+#: core/Pages/Themes.php:139 core/Control/Themes.php:247
+msgid "Live Preview"
+msgstr "Vista previa"
+
+#: templates/siteground-wizard.php:77
+#: templates/partials/plugins/load-more.php:18
+#: templates/partials/themes/load-more.php:18
+msgid "Load More"
+msgstr "Cargar más"
+
+#: templates/siteground-wizard.php:103
+msgid "Magazine"
+msgstr "Revista"
+
+#: manual-translations.php:15
+msgid "Manage"
+msgstr "Gestionar"
+
+#: templates/partials/manage-design.php:6
+msgid "Manage Design"
+msgstr "Administrar diseño"
+
+#: templates/partials/manage-functionality.php:61
+msgid "Manage Functionality"
+msgstr "Administrar funcionalidades"
+
+#: templates/partials/manage-design.php:42
+#: templates/partials/manage-design.php:50
+msgid "Manage Pages"
+msgstr "Administrar páginas"
+
+#: templates/siteground-wizard.php:93
+msgid "Manage your Contacts"
+msgstr "Gestionar tus Contactos"
+
+#: templates/siteground-wizard.php:83
+msgid "Maps"
+msgstr "Mapas"
+
+#: templates/partials/news-and-events.php:26
+msgid "Meetups"
+msgstr "Meetups"
+
+#: templates/siteground-wizard.php:89
+msgid "Multilingual Site"
+msgstr "Web Multilingüe"
+
+#: helpers/manual-translations.php:2
+msgid "Must Have Plugins&nbsp;"
+msgstr "Plugins Recomendados&nbsp;"
+
+#: templates/partials/news-and-events.php:47
+msgid "News"
+msgstr "Noticias"
+
+#: templates/partials/themes/popup.php:30
+msgid "No"
+msgstr "No"
+
+#: templates/siteground-wizard.php:100
+msgid "Online-store"
+msgstr "Tienda online"
+
+#: templates/siteground-wizard.php:72
+msgid "Oops! Something went wrong!"
+msgstr "¡Ups! ¡Algo ha fallado!"
+
+#: templates/siteground-wizard.php:86 templates/siteground-wizard.php:91
+msgid "Optimize for SEO"
+msgstr "Optimizar para SEO"
+
+#: manual-translations.php:16
+msgid "Organize your Photos & Videos"
+msgstr "Organizar tus Fotos & Videos"
+
+#: templates/partials/useful-links.php:112
+msgid ""
+"Our top experts have shared their know how on WooCommerce in а specialized "
+"ebook. Take advantage of their knowledge and make your site faster and safer."
+msgstr ""
+"Nuestros expertos han compartido su conocimiento sobre WooCommerce en un "
+"ebook especializado. Toma ventaja de sus conocimientos y haz tu web más "
+"rápida y segura."
+
+#: templates/partials/useful-links.php:114
+msgid ""
+"Our top experts have shared their know how on WordPress in specialized "
+"ebooks on different topics. Take advantage of their knowledge and make your "
+"site faster and safer."
+msgstr ""
+"Nuestro expertos has compartido sus conocimientos de WordPress en ebooks "
+"especializados que abarcan diferentes temas. Benefíciate de su conocimiento "
+"y haz que tu web sea más segura y rápida."
+
+#: templates/partials/useful-links.php:32
+msgid ""
+"Our WooCommerce Starter allows you to choose a fancy design and add plugins "
+"with important functionality for your site. It installs and sets up all the "
+"items you chose."
+msgstr ""
+"Nuestro WooCommerce Starter te permite elegir un diseño elegante y agregar "
+"plugins con funcionalidades importantes para tu sitio web. Instala y "
+"configura todos los elementos que elegiste."
+
+#: templates/partials/useful-links.php:34
+msgid ""
+"Our WordPress Starter allows you to choose a fancy design and add plugins "
+"with important functionality for your site. It installs and sets up all the "
+"items you chose."
+msgstr ""
+"Nuestro WordPress Starter te permite elegir un diseño elegante y agregar "
+"plugins con funcionalidades importantes para tu sitio web. Instala y "
+"configura todos los elementos que elegiste."
+
+#: templates/siteground-wizard.php:108
+msgid "Photography"
+msgstr "Fotografía"
+
+#: templates/partials/themes/notifications.php:35
+msgid "Please get ready."
+msgstr "Por favor, prepárate."
+
+#: templates/partials/themes/notifications.php:13
+msgid "Please update now."
+msgstr "Por favor, actualiza ahora."
+
+#: templates/siteground-wizard.php:69
+msgid "Please, don’t close this window, we will finish shortly!"
+msgstr "Por favor, no cierres esta ventana ¡acabaremos en seguida!"
+
+#: templates/siteground-wizard.php:54 templates/siteground-wizard.php:63
+msgid "plugin by"
+msgstr "plugin hecho por"
+
+#: templates/siteground-wizard.php:101
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: templates/siteground-wizard.php:78
+msgid "Preparing your WordPress installation..."
+msgstr "Preparando tu instalación WordPress..."
+
+#: templates/siteground-wizard.php:55
+msgid "previous"
+msgstr "anterior"
+
+#: templates/partials/useful-links.php:103
+msgid "Read our WooCommerce Ebooks"
+msgstr "Lee nuestros Ebooks de WooCommerce"
+
+#: templates/partials/useful-links.php:105
+msgid "Read our WordPress Ebooks"
+msgstr "Lee nuestros Ebooks de WordPress"
+
+#: templates/siteground-wizard.php:64
+msgid "recommended"
+msgstr "recomendados"
+
+#: templates/siteground-wizard.php:65
+msgid "required"
+msgstr "requerido"
+
+#: templates/partials/installation-status.php:45
+msgid "Restart"
+msgstr "Reiniciar"
+
+#: templates/siteground-wizard.php:75
+msgid "Restart Installation"
+msgstr "Reiniciar instalación"
+
+#: templates/siteground-wizard.php:109
+msgid "Restaurant"
+msgstr "Restaurante"
+
+#: templates/partials/plugins/search-form.php:18
+#: templates/partials/themes/search-form.php:18
+msgid "Search"
+msgstr "Buscar"
+
+#: core/Installer/Installer.php:76 core/Installer/Installer.php:107
+msgid "Security check"
+msgstr "Comprobación de seguridad"
+
+#: helpers/manual-translations.php:5
+msgid "See Recommended&nbsp;"
+msgstr "Ver recomendados"
+
+#: templates/siteground-wizard.php:56
+msgid "Select"
+msgstr "Seleccionar"
+
+#: templates/partials/installation-status.php:27
+msgid ""
+"Select design, functionality and marketing plugins and start working on your "
+"online store right away!"
+msgstr ""
+"Selecciona plugins de diseño, funcionalidad y marketing y ¡comienza a "
+"trabajar en tu tienda online ahora!"
+
+#: templates/partials/installation-status.php:29
+msgid ""
+"Select design, functionality and marketing plugins and start working on your "
+"site right away!"
+msgstr ""
+"Selecciona el diseño, la funcionalidad y los plugins de marketing y comienza "
+"a trabajar en tu sitio de inmediato."
+
+#: templates/siteground-wizard.php:76
+msgid "Select theme"
+msgstr "Seleccionar tema"
+
+#: templates/siteground-wizard.php:59
+msgid "Selected"
+msgstr "Seleccionado"
+
+#: templates/siteground-wizard.php:85
+msgid "Shop"
+msgstr "Tienda"
+
+#: templates/dashboard-widget.php:5 core/Pages/Dashboard.php:191
+msgid "Simplified Dashboard"
+msgstr "Panel simplificado"
+
+#: templates/partials/installation-status.php:14
+msgid "SiteBuilder Installation Was Not Complete"
+msgstr "La instalación de SiteBuilder no fue completada"
+
+#. Author of the plugin
+msgid "SiteGround"
+msgstr "SiteGround"
+
+#. Name of the plugin
+msgid "SiteGround Central"
+msgstr "SiteGround Central"
+
+#: templates/partials/manage-functionality.php:71
+msgid "special offer"
+msgstr "oferta especial"
+
+#: templates/siteground-wizard.php:47 templates/partials/useful-links.php:39
+#: templates/partials/installation-status.php:53
+msgid "Start Now"
+msgstr "Empezar ahora"
+
+#: templates/partials/installation-status.php:38
+msgid "Start Over"
+msgstr "Iniciar de nuevo"
+
+#: templates/dashboard-widget.php:8
+msgid "Switch to Simplified Dashboard"
+msgstr "Cambiar a panel simplificado"
+
+#: templates/dashboard-widget.php:6
+msgid ""
+"Switch to the simplified dashboard that is part of the WordPress Starter "
+"plugin you used to setup your site."
+msgstr ""
+"Cambia al panel simplificado que es parte del plugin de WordPress Starter "
+"que usaste para configurar tu sitio."
+
+#: templates/partials/useful-links.php:57
+msgid "Take advantage of our WordPress Tutorial!"
+msgstr "¡Benefíciate de nuestro tutorial de WordPress!"
+
+#: templates/siteground-wizard.php:67
+msgid ""
+"The design you have chosen comes with sample data that is enabled by { "
+"pluginNames }. In order to keep the sample data, including all the pages and "
+"overall look and structure of the selected design, we will install { "
+"pluginNames } on your site."
+msgstr ""
+"El diseño que has elegido incluye contenido de prueba que es activado por { "
+"pluginNames }. Para mantener este contenido de prueba, incluyendo todas las "
+"páginas y el conjunto de la estructura del diseño seleccionado, instalaremos "
+"{ pluginNames } en tu sitio web."
+
+#: templates/siteground-wizard.php:73
+msgid ""
+"The installation of the selected items could not be completed. Please "
+"restart the wizard or try again later."
+msgstr ""
+"La instalación de los elementos seleccionados no pudo ser completado. Por "
+"favor, reinicia el asistente o inténtalo de nuevo más tarde."
+
+#: core/Activator/Activator.php:30
+msgid "The WordPress Starter plugin requires PHP version 5.6 or above."
+msgstr "El plugin WordPress Starter requiere la versión de PHP 5.6 o superior."
+
+#: core/Activator/Activator.php:25
+msgid "The WordPress Starter plugin requires WordPress version 4.4 or above."
+msgstr ""
+"El plugin WordPress Starter requiere la versión 4.4 de WordPress o superior."
+
+#: templates/partials/notifications.php:19
+msgid ""
+"There are new updates for your website. Check them out and apply the new "
+"versions to keep your site updated and secure!"
+msgstr ""
+"Hay nuevas actualizaciones para tu página web. ¡Échales un vistazo y "
+"aplícalas para mantener tu web actualizada y segura!"
+
+#. Description of the plugin
+msgid ""
+"This plugin is designed to provide you with an easy start of your next "
+"WordPress project!"
+msgstr ""
+"¡Este plugin está diseñado para proporcionarte un comienzo fácil de tu "
+"próximo proyecto WordPress!"
+
+#: manual-translations.php:17
+msgid "Translate Your Website"
+msgstr "Traducir tu Sitio Web"
+
+#: templates/siteground-wizard.php:99
+msgid "Travel"
+msgstr "Viajar"
+
+#: templates/siteground-wizard.php:60
+msgid "Type a keyword..."
+msgstr "Presiona una tecla…"
+
+#: core/Control/Plugins.php:186 templates/partials/notifications.php:29
+#: templates/partials/themes/notifications.php:20
+msgid "Update"
+msgstr "Actualización"
+
+#: core/Pages/Plugins.php:171
+msgid "Updating..."
+msgstr "Actualizando..."
+
+#: helpers/manual-translations.php:4
+msgid "Upload Plugin"
+msgstr "Subir Plugin"
+
+#: helpers/manual-translations.php:7
+msgid "Upload Theme"
+msgstr "Subir Tema"
+
+#: templates/partials/plugins/upload.php:11
+msgid "Upload Your Plugin"
+msgstr "Sube Tu Plugin"
+
+#: templates/partials/themes/upload.php:11
+msgid "Upload Your Theme"
+msgstr "Sube Tu Tema"
+
+#: templates/partials/useful-links.php:23
+msgid "USE OUR WOOCOMMERCE STARTER FOR AN EASIER START!"
+msgstr "¡USA NUESTRO WOOCOMMERCE STARTER PARA UN COMIENZO MÁS FÁCIL!"
+
+#: templates/partials/useful-links.php:25
+msgid "USE OUR WORDPRESS STARTER FOR AN EASIER START!"
+msgstr "¡USA NUESTRO WORDPRESS STARTER PARA UN COMIENZO MÁS FÁCIL!"
+
+#: templates/partials/useful-links.php:6
+msgid "Useful Links"
+msgstr "Enlaces útiles"
+
+#: templates/siteground-wizard.php:53 templates/partials/manage-design.php:17
+#: templates/partials/manage-design.php:26
+msgid "View Site"
+msgstr "Ver página"
+
+#: templates/partials/themes/popup.php:88
+msgid "View site"
+msgstr "Ver sitio"
+
+#: templates/partials/useful-links.php:63
+msgid "View WordPress Tutorial"
+msgstr "Ver tutorial de WordPress"
+
+#: templates/partials/useful-links.php:85
+msgid "Visit Knowledge Base"
+msgstr "Visita la Base de Conocimiento"
+
+#: templates/partials/useful-links.php:79
+msgid "Visit our WordPress Knowledge Base"
+msgstr "Visita nuestra Base de Conocimiento de WordPress"
+
+#: templates/partials/useful-links.php:60
+msgid ""
+"We have prepared an easy to follow tutorial with everything you need to know "
+"about setting up your WordPress site, creating posts and pages, making "
+"backups and a lot more."
+msgstr ""
+"Hemos preparado un tutorial muy fácil de seguir con todo lo que necesitas "
+"saber para configurar tu web en WordPress, creando entradas, páginas, copias "
+"de seguridad y mucho más."
+
+#: templates/siteground-wizard.php:71 templates/partials/themes/popup.php:78
+msgid ""
+"We have successfully completed the installation of the items you selected. "
+"You may now proceed to your WordPress dashboard and start managing your site."
+msgstr ""
+"Hemos completado con éxito la instalación de los elementos que has "
+"seleccionado. Puedes proceder al panel de control en tu WordPress y empezar "
+"a gestionar tu web."
+
+#: templates/siteground-wizard.php:102
+msgid "Wedding"
+msgstr "Boda"
+
+#: templates/partials/installation-status.php:17
+msgid "WooCommerce Starter Available!"
+msgstr "¡WooCommerce Starter disponible!"
+
+#: templates/partials/news-and-events.php:36
+msgid "WordCamps"
+msgstr "WordCamps"
+
+#: templates/partials/themes/notifications.php:10
+msgid "WordPress 5.5 is available!"
+msgstr "¡WordPress 5.5 está disponible!"
+
+#: templates/partials/themes/notifications.php:32
+msgid "WordPress 5.6 will be available soon!"
+msgstr "¡WordPress 5.6 estará disponible pronto!"
+
+#: templates/partials/news-and-events.php:2
+msgid "WordPress Events and News"
+msgstr "Noticias y eventos de WordPress"
+
+#: templates/siteground-wizard.php:15
+msgid "WordPress Starter"
+msgstr "WordPress Starter"
+
+#: templates/partials/installation-status.php:19
+msgid "WordPress Starter Available!"
+msgstr "¡WordPress Starter está disponible!"
+
+#: templates/partials/themes/popup.php:33
+msgid "Yes"
+msgstr "Sí"
+
+#: templates/partials/manage-design.php:70
+#, php-format
+msgid "Your current theme is %s"
+msgstr "Tu tema actual es %s"
+
+#: manual-translations.php:14
+msgid "Your Subscription List"
+msgstr "Tu lista de suscripción"
+
+#: templates/partials/notifications.php:15
+msgid "Your WordPress Needs Attention!"
+msgstr "¡Tu WordPress necesita atención!"

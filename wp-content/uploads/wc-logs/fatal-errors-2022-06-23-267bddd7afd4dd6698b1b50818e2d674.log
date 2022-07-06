@@ -1,0 +1,80 @@
+2022-06-23T03:36:36+00:00 CRITICAL Uncaught Error: Class 'ASP_Search_INDEX' not found in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php:1653
+Stack trace:
+#0 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(871): ASP_Query->get_posts()
+#1 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(2828): ASP_Query->__construct(Array, 1)
+#2 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/search.inc.php(5): require_once('/home/customer/...')
+#3 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/core/class-asp-manager.php(262): require_once('/home/customer/...')
+#4 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/a in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php on line 1653
+
+2022-06-23T03:37:29+00:00 CRITICAL Uncaught Error: Class 'ASP_Search_INDEX' not found in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php:1653
+Stack trace:
+#0 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(871): ASP_Query->get_posts()
+#1 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(2828): ASP_Query->__construct(Array, 1)
+#2 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/search.inc.php(5): require_once('/home/customer/...')
+#3 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/core/class-asp-manager.php(262): require_once('/home/customer/...')
+#4 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/a in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php on line 1653
+
+2022-06-23T03:45:19+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/etc/class-asp_helpers.php:754
+Stack trace:
+#0 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/ajax/class-asp-search.php(90): ASP_Helpers::generateHTMLResults(Object(stdClass), Array, 3, 'a')
+#1 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/class-wp-hook.php(307): WD_ASP_Search_Handler->handle('')
+#2 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-admin/admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/etc/class-asp_helpers.php on line 754
+
+2022-06-23T04:23:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function fetchWithZotero(), 1 passed in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix/functions.php:398
+Stack trace:
+#0 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/class-wp-hook.php(309): fetchWithZotero(Array)
+#1 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/plugin.php(191): WP_Hook->apply_filters(Array, Array)
+#2 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(2187): apply_filters('asp_results', Array, 3, true, Array)
+#3 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(871): ASP_Query->get_posts()
+#4 /home/customer/www/thelibrary.santhigramscho in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix/functions.php on line 398
+
+2022-06-23T04:23:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function fetchWithZotero(), 1 passed in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix/functions.php:398
+Stack trace:
+#0 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/class-wp-hook.php(309): fetchWithZotero(Array)
+#1 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/plugin.php(191): WP_Hook->apply_filters(Array, Array)
+#2 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(2187): apply_filters('asp_results', Array, 3, true, Array)
+#3 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(871): ASP_Query->get_posts()
+#4 /home/customer/www/thelibrary.santhigramscho in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix/functions.php on line 398
+
+2022-06-23T04:23:41+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function fetchWithZotero(), 1 passed in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix/functions.php:398
+Stack trace:
+#0 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/class-wp-hook.php(309): fetchWithZotero(Array)
+#1 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/plugin.php(191): WP_Hook->apply_filters(Array, Array)
+#2 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(2187): apply_filters('asp_results', Array, 3, true, Array)
+#3 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(871): ASP_Query->get_posts()
+#4 /home/customer/www/thelibrary.santhigramscho in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix/functions.php on line 398
+
+2022-06-23T04:24:04+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function fetchWithZotero(), 1 passed in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix/functions.php:398
+Stack trace:
+#0 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/class-wp-hook.php(309): fetchWithZotero(Array)
+#1 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/plugin.php(191): WP_Hook->apply_filters(Array, Array)
+#2 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(2187): apply_filters('asp_results', Array, 3, true, Array)
+#3 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(871): ASP_Query->get_posts()
+#4 /home/customer/www/thelibrary.santhigramscho in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix/functions.php on line 398
+
+2022-06-23T04:26:45+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function fetchWithZotero(), 1 passed in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix/functions.php:398
+Stack trace:
+#0 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/class-wp-hook.php(309): fetchWithZotero(Array)
+#1 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/plugin.php(191): WP_Hook->apply_filters(Array, Array)
+#2 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(2187): apply_filters('asp_results', Array, 3, true, Array)
+#3 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(871): ASP_Query->get_posts()
+#4 /home/customer/www/thelibrary.santhigramscho in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix/functions.php on line 398
+
+2022-06-23T04:27:04+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function fetchWithZotero(), 1 passed in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix/functions.php:398
+Stack trace:
+#0 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/class-wp-hook.php(309): fetchWithZotero(Array)
+#1 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-includes/plugin.php(191): WP_Hook->apply_filters(Array, Array)
+#2 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(2187): apply_filters('asp_results', Array, 3, true, Array)
+#3 /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(871): ASP_Query->get_posts()
+#4 /home/customer/www/thelibrary.santhigramscho in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix/functions.php on line 398
+
+2022-06-23T13:54:28+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix/functions.php on line 419
+
+2022-06-23T13:54:43+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix/functions.php on line 419
+
+2022-06-23T13:54:58+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/customer/www/thelibrary.santhigramschool.com/public_html/wp-content/themes/academix/functions.php on line 419
+
